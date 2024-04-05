@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mattix1710.github.io'
 languageCode = 'en-us'
 title = 'Mateusz Szuda'
 theme = 'terminal'
@@ -17,7 +17,7 @@ paginate = 5
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -100,6 +100,5 @@ paginate = 5
             url = "/writeups"
 
         [[languages.en.menu.main]]
-            identifier = "showcase"
-            name = "Showcase"
-            url = "/showcase"
+            identifier = "0x03 Forensics wiki"
+            url = "https://putrequest.github.io/PUTwiki/forensics/forensics_wiki/"
