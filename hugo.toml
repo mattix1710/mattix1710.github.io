@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Mateusz Szuda - portfolio'
+title = 'Mateusz Szuda'
 theme = 'terminal'
 
 [[menu.main]]
