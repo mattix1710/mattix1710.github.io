@@ -16,4 +16,4 @@ If you, my dear friend, want to explore the wiki, here is the link:
 
 https://putrequest.github.io/PUTwiki/forensics/forensics_wiki/
 
-![imgs/Forensics_wiki_header.png](forensics_wiki_header)
+![forensics_wiki_header](/imgs/Forensics_wiki_header.png)
