@@ -10,8 +10,10 @@ A few months back with the number of other leaders we've managed to create simpl
 
 On 01.03.2024 I've started the Wiki (currently powered by GitHub pages and Mkdocs material) with the initial note and simple forensics cheatsheet.
 
-Now I can happily say, that multiple other people started to contribute to that project and I sitll have a lot of ideas, what else can we write there 🤔
+Now I can happily say 🥳, that multiple other people have started to contribute to that project and I still have a lot of ideas, what else can we write there 🤔
 
 If you, my dear friend, want to explore the wiki, here is the link:
 
 https://putrequest.github.io/PUTwiki/forensics/forensics_wiki/
+
+![imgs/Forensics_wiki_header.png](forensics_wiki_header)
