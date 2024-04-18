@@ -17,7 +17,7 @@ paginate = 5
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
@@ -100,5 +100,10 @@ paginate = 5
             url = "/writeups"
 
         [[languages.en.menu.main]]
-            identifier = "0x03 Forensics wiki"
+            identifier = "Cheatsheet"
+            name = "0x03 Cheatsheet"
+            url = "/cheatsheet"
+
+        [[languages.en.menu.main]]
+            identifier = "0x04 Forensics wiki"
             url = "https://putrequest.github.io/PUTwiki/forensics/forensics_wiki/"
